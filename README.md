@@ -1,8 +1,8 @@
 # Solidity-via-CryptoZombies
 My entire journey of learning Solidity via CryptoZombies!
 
-##Level 1
-###I learnt:
+## Level 1
+### I learnt:
 * How to write Ethereum smart contracts.
 * Programming in Solidity, Ethereum's smart contract programming language
 * Building games on Ethereum.
