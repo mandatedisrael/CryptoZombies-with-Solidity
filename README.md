@@ -17,3 +17,12 @@ My entire journey of learning Solidity via CryptoZombies!
 * Organizing larger Solidity projects into multiple contracts
 * And finally built a Zombie Card Battle  
 * Try it out [here!](https://share.cryptozombies.io/en/lesson/2/share/hybrid?id=Y3p8NTM5NTY1)
+
+
+## Level 3
+### I learnt some advanced concepts:
+* How to build updatable smart contracts
+* Securing contracts with contract ownership
+* Gas and gas optimization on Ethereum
+* Function modifiers and security checks  
+* Try it out [here!](https://share.cryptozombies.io/en/lesson/3/share/hybrid?id=Y3p8NTM5NTY1)
