@@ -35,3 +35,10 @@ My entire journey of learning Solidity via CryptoZombies!
 * Random number generation & Security on Ethereum
 * Code refactoring exploring modifiers!
 * [Here](https://share.cryptozombies.io/en/lesson/4/share/hybrid?id=WyJjenw1Mzk1NjUiLDIsMTRd) is the completion link!
+
+## Level 5
+### Wao! It was so much fun to learn about:
+* Tokens, the ERC721 standard, and creating tradable tokens / assets
+* Solidity libraries and how to use them
+* The SafeMath library and preventing uint overflows and underflows
+* Commenting your Solidity code and the natspec standard
