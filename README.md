@@ -41,4 +41,4 @@ My entire journey of learning Solidity via CryptoZombies!
 * Tokens, the ERC721 standard, and creating tradable tokens / assets
 * Solidity libraries and how to use them
 * The SafeMath library and preventing uint overflows and underflows
-* Commenting your Solidity code and the natspec standard
+* Commenting your Solidity code and the natspec standard.
