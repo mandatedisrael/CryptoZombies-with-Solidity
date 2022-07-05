@@ -26,3 +26,12 @@ My entire journey of learning Solidity via CryptoZombies!
 * Gas and gas optimization on Ethereum
 * Function modifiers and security checks  
 * Try it out [here!](https://share.cryptozombies.io/en/lesson/3/share/hybrid?id=Y3p8NTM5NTY1)
+
+
+## Level 4
+### Fun to learn alot of real world applications
+* Payable functions, and how to earn money from your Ethereum-based games
+* Withdrawing ETH from smart contracts
+* Random number generation & Security on Ethereum
+* Code refactoring exploring modifiers!
+* [Here](https://share.cryptozombies.io/en/lesson/4/share/hybrid?id=WyJjenw1Mzk1NjUiLDIsMTRd) is the completion link!
