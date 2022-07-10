@@ -1,6 +1,6 @@
 # Solidity-via-CryptoZombies
 My entire journey of learning Solidity via CryptoZombies!
-![Completion](../CryptoZombies-with-Solidity/image/screenshot.png)
+![](images/screenshot.png)
 
 ## Level 1
 ### I learnt:
