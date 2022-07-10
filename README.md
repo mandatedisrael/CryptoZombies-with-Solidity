@@ -1,5 +1,6 @@
 # Solidity-via-CryptoZombies
 My entire journey of learning Solidity via CryptoZombies!
+![Completion](../CryptoZombies-with-Solidity/image/screenshot.png)
 
 ## Level 1
 ### I learnt:
@@ -43,3 +44,11 @@ My entire journey of learning Solidity via CryptoZombies!
 * The SafeMath library and preventing uint overflows and underflows
 * Commenting your Solidity code and the natspec standard.
 * [Here's](https://share.cryptozombies.io/en/lesson/5/share/H4XF13LD_MORRIS_%F0%9F%92%AF%F0%9F%92%AF%F0%9F%98%8E%F0%9F%92%AF%F0%9F%92%AF?id=Y3p8NTM5NTY1) the final result!
+
+## Level 6
+### This was a well detailed tutorial on Web3 Provider and connection of frontend to Smart Contract!
+*
+*
+*
+*
+
