@@ -47,8 +47,8 @@ My entire journey of learning Solidity via CryptoZombies!
 
 ## Level 6
 ### This was a well detailed tutorial on Web3 Provider and connection of frontend to Smart Contract!
-*
-*
-*
-*
-
+#### I learnt alot and some are :
+* Building web front-ends for Ethereum smart contracts using Web3.js
+* Using MetaMask and Infura to build user-facing DApps
+* Listening to smart contract events and showing users real-time updates and many more!
+* Completion link is found [here!](https://share.cryptozombies.io/en/lesson/6/share/The_Phantom_of_Web3?id=Y3p8NTM5NTY1)
